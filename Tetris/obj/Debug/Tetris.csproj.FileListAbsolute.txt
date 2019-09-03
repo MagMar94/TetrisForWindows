@@ -1,0 +1,15 @@
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.TetrisGUI.resources
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.WelcomeScreen.resources
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\bin\Debug\Newtonsoft.Json.dll
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\bin\Debug\Newtonsoft.Json.xml
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.Controls.resources
+C:\Users\146184\source\repos\Tetris\Tetris\Tetris\obj\Debug\Tetris.About.resources
